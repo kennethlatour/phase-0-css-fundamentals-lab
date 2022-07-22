@@ -1,5 +1,25 @@
+head {
+  text-align: center
+}
+
 body {
   width: 100%;
   height: 100%;
   margin: 0;
+}
+img.featured-property {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+section {
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+p#featured-property {
+  font-size: 20px;
+  width: 800px
 }
